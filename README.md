@@ -8,7 +8,7 @@ I've been learning coding for 2 years
 
 * 🌍  I'm based in India,Kerala
 * ✉️  You can contact me at [aminthoufeeque10@gmail.com](mailto:aminthoufeeque10@gmail.com)
-* 🚀  I'm currently working on [Amazon clone](http://github.com/Amin-Thoufeeque/amazon-clone)
+* 🚀  I'm currently working on [Nike Store](http://github.com/Amin-Thoufeeque/nike_store)
 * 🧠  I'm learning Node Backend
 * ⚡  Pure profession👨🏻‍💻
 
